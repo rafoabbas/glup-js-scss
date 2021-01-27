@@ -1,0 +1,9 @@
+@import "base/variables";
+@import "base/mixin";
+@import "base/reset";
+
+body{
+  background-color: $background-color;
+  color: white;
+  //font-size: 16px;
+}
